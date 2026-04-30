@@ -1,7 +1,7 @@
 ### Hi, I'm Zhu Liang 👋
 
-10+ years of old-school craftsmanship — I've worn the hats of designer, product manager, frontend, backend, and platform engineer. Now learning in the tide of AI.
-10 多年古法编程技艺，做过设计师、产品经理、前端工程师、后端工程师、平台工程师，现在在 AI 的洪流里学习。
+15+ years of old-school craftsmanship — I've worn the hats of designer, product manager, frontend, backend, and platform engineer. Now learning in the tide of AI.
+15+ 年古法编程技艺，做过设计师、产品经理、前端工程师、后端工程师、平台工程师，现在在 AI 的洪流里学习。
 
 ---
 
