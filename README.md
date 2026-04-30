@@ -1,7 +1,7 @@
 ### Hi, I'm Zhu Liang 👋
 
-Building [btelo.com](https://btelo.com) — a small team shipping AI-native products fast.
-我在做 [btelo.com](https://btelo.com)，一个小团队、高速度交付 AI 时代产品的工作室。
+A solo founder's lab. Sharing the journey of running a one-person company.
+一人公司的实验室，分享一人公司的心路历程。
 
 ---
 
@@ -9,9 +9,10 @@ Building [btelo.com](https://btelo.com) — a small team shipping AI-native prod
 
 |   |   |   |
 | - | - | - |
-| 🌱 | **[btelo.com](https://btelo.com)** | A multi-product studio for AI-native tools, built by a small team that ships fast.<br>面向 AI 时代的多产品工作室，小团队、高速度交付。 |
-| 💻 | **[coding.btelo.com](https://coding.btelo.com)** | AI pair-programming in your terminal. Plan, edit, run — all in one loop.<br>终端里的 AI 结对编程，规划、编辑、执行一个闭环。 |
-| ✍️ | **[amarkdown.btelo.com](https://amarkdown.btelo.com)** | A markdown-first writing space where AI helps you draft, refine, and publish.<br>以 markdown 为核心的写作空间，AI 协助起草、润色、发布。 |
+| 🧪 | **[btelo.com](https://btelo.com)** | A solo founder's lab — one subscription across all my products, plus notes from running a one-person company.<br>一人公司的实验室，统一订阅旗下所有产品，记录一人公司的心路历程。 |
+| 📱 | **[coding.btelo.com](https://coding.btelo.com)** | Vibe-code from your phone — drive Claude Code / Codex remotely. I ship most of my products from the living room and backyard with this.<br>移动端远程驱动 Claude Code / Codex 的 vibe coding 工具，我大部分产品都是在客厅、后院用它写出来的。 |
+| ✍️ | **[amarkdown.btelo.com](https://amarkdown.btelo.com)** | An early "old-school" experiment — describe web apps and low-code flows in plain Markdown DSL.<br>古法编程时期的早期产品，用 Markdown 描述 web 与低代码 DSL。 |
+| 🌐 | **[lesstranslate.com](https://lesstranslate.com)** | A small translation tool I built years ago — still my most profitable product cumulatively.<br>几年前开发的小工具，至今仍是累积盈利最好的一个产品。 |
 
 ---
 
