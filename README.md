@@ -17,3 +17,5 @@ A solo founder's lab. Sharing the journey of running a one-person company.
 ---
 
 📮 ymblender@gmail.com
+
+<!-- last updated: 2026-04-30T12:02:20Z -->
