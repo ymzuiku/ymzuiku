@@ -9,7 +9,7 @@
 
 |   |   |   |
 | - | - | - |
-| 🧪 | **[btelo.com](https://btelo.com)** | A solo founder's lab — one subscription across all my products, plus notes from running a one-person company. Every future vibe-coding product I ship will roll into the btelo subscription.<br>一人公司的实验室，统一订阅旗下所有产品，记录一人公司的心路历程。未来所有 vibe coding 产品都会聚合到 btelo 订阅中。 |
+| 🧪 | **[btelo.com](https://btelo.com)** | The btelo subscription platform — one subscription across all my products. A solo founder's lab. Every future vibe-coding product I ship will roll into the btelo subscription.<br>btelo 订阅平台，统一订阅旗下所有产品，一人公司的实验室，未来所有 vibe coding 产品都会聚合到 btelo 订阅中。 |
 | 📱 | **[coding.btelo.com](https://coding.btelo.com)** | Vibe-code from your phone — drive Claude Code / Codex remotely. I ship most of my products from the living room and backyard with this.<br>移动端远程驱动 Claude Code / Codex 的 vibe coding 工具，我大部分产品都是在客厅、后院用它写出来的。 |
 
 ### Earlier Projects / 早年项目
